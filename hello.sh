@@ -1,4 +1,4 @@
-#!bin/sh
+#!/bin/sh
 word1=Hello
 word2=How
 word3=you
